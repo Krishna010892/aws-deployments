@@ -1,0 +1,13 @@
+nohup: ignoring input
+[2025-12-31 00:19:35 +0000] [9584] [INFO] Starting gunicorn 23.0.0
+[2025-12-31 00:19:35 +0000] [9584] [ERROR] Connection in use: ('127.0.0.1', 5000)
+[2025-12-31 00:19:35 +0000] [9584] [ERROR] connection to ('127.0.0.1', 5000) failed: [Errno 98] Address already in use
+[2025-12-31 00:19:36 +0000] [9584] [ERROR] Connection in use: ('127.0.0.1', 5000)
+[2025-12-31 00:19:36 +0000] [9584] [ERROR] connection to ('127.0.0.1', 5000) failed: [Errno 98] Address already in use
+[2025-12-31 00:19:37 +0000] [9584] [ERROR] Connection in use: ('127.0.0.1', 5000)
+[2025-12-31 00:19:37 +0000] [9584] [ERROR] connection to ('127.0.0.1', 5000) failed: [Errno 98] Address already in use
+[2025-12-31 00:19:38 +0000] [9584] [ERROR] Connection in use: ('127.0.0.1', 5000)
+[2025-12-31 00:19:38 +0000] [9584] [ERROR] connection to ('127.0.0.1', 5000) failed: [Errno 98] Address already in use
+[2025-12-31 00:19:39 +0000] [9584] [ERROR] Connection in use: ('127.0.0.1', 5000)
+[2025-12-31 00:19:39 +0000] [9584] [ERROR] connection to ('127.0.0.1', 5000) failed: [Errno 98] Address already in use
+[2025-12-31 00:19:40 +0000] [9584] [ERROR] Can't connect to ('127.0.0.1', 5000)
